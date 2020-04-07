@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutteravanzado
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_avanzado
+Flutter Aplication
+>>>>>>> edfb75fd425dc9d4bbb2f39ef44caa06d4bacc61
